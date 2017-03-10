@@ -1,4 +1,4 @@
-# Graph API Webhooks Heroku Sample
+# Facebook Event Guest List Care
 
 This is a sample client for [Facebook's Graph API Webhooks](https://developers.facebook.com/docs/graph-api/webhooks/) and [Instagram's Subscriptions API](https://www.instagram.com/developer/subscriptions/), powered by [Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs).
 
