@@ -1,4 +1,4 @@
 {
-  "name": "Graph API Webhooks Sample",
-  "repository": "https://github.com/fbsamples/graph-api-webhooks-samples"
+  "name": "Canvas app to take care of Facebook event guest list",
+  "repository": "https://github.com/florianjourda/fb-event-guest-list-care"
 }
